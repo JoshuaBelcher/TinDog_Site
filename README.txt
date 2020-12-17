@@ -1,1 +1,1 @@
-A canine spoof of Tinder, created to practice the Bootstrap framework.
+A splash page for a canine spoof of Tinder, created to practice the Bootstrap framework.
